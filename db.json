@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "Artem",
+      "email": "artem@turn.lv",
+      "birthDay": "2022-12-30",
+      "department": "B2",
+      "id": "ay6reSH"
+    },
+    {
+      "name": "ArtemTest",
+      "email": "test@scs.com",
+      "birthDay": "2023-03-22",
+      "department": "B2",
+      "id": "E8yJe7n"
+    }
+  ]
+}
